@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32804
 description: Travellers to Mars find a cordial welcome and discover the Martians great
   secret of reincarnation.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27633#To-Mars-via-The-MoonAn-Astronomical-Story
 gutenberg_issued: '2008-12-27'
 gutenberg_type: Text
 identifiers:
