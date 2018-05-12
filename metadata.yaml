@@ -1,0 +1,28 @@
+_repo: To-Mars-via-The-MoonAn-Astronomical-Story_27633
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27633-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Wicks, Mark
+    gutenberg_agent_id: '32804'
+    url: http://www.gutenberg.org/2009/agents/32804
+description: Travellers to Mars find a cordial welcome and discover the Martians great
+  secret of reincarnation.
+gutenberg_issued: '2008-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27633'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PR'
+title: 'To Mars via The Moon
+
+  An Astronomical Story'
+url: http://www.gutenberg.org/ebooks/27633
